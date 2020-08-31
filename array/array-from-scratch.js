@@ -1,3 +1,7 @@
+// javascript
+// Aditya0x34 (https://github.com/Aditya0x34)
+
+
 class MyArray{
   constructor() {  
     this.length = 0;
